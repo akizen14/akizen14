@@ -1,66 +1,50 @@
-<a href="https://github.com/akizen14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=650&lines=Security-focused+Product+Builder;AI+Products+%26+Responsible+AI;Building+security+tools+end+to+end" alt="Typing SVG"></a>
+<p align="center">
+<a href="https://github.com/akizen14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Chaitanya;Security-focused+Product+Builder;AI+Security+%26+Responsible+AI;Building+Red-Prompt" alt="Typing SVG"></a>
+</p>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/chaitanya-sawant14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:chaitanyassawant07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://red-prompt.org/"><img src="https://img.shields.io/badge/red--prompt.org-111111?style=for-the-badge" alt="red-prompt"></a>
+</p>
 
 ## About Me
 
-I'm Chaitanya, and I build security products end to end, from detection logic to the dashboard someone actually uses, and I care about the decisions behind them as much as the code.
+I build security products end to end, from the detection logic underneath to the dashboard someone actually uses. Most of my work sits where security meets AI: testing LLM applications, catching ransomware on endpoints, and spotting phishing and AI-generated media.
 
-- Currently building **[Red-Prompt](https://red-prompt.org/)**, an early-stage startup for testing LLM applications against prompt injection, jailbreaks, and data leakage
-- I like deterministic logic where a result has to be right, and AI where a problem needs judgment
-- I use AI workflows (Claude Code, Gemini CLI, Codex) to take the mundane work off my plate and ship faster
-
-## By the Numbers
-
-| Zero-day Phishing Detection | Regression Tests | LLM Probe Categories | Endpoint Telemetry Sources |
-|:---:|:---:|:---:|:---:|
-| **96%** | **127** | **41** | **7** |
+- **Now:** building [Red-Prompt](https://red-prompt.org/), an early-stage startup for red-teaming LLM applications
+- **Also working on:** a multi-agent pentesting framework where LLM agents do the legwork and humans approve every stage
+- **How I build:** deterministic logic where a result has to be right, AI where a problem needs judgment, and tests before trust
+- **How I ship:** AI workflows with Claude Code, Gemini CLI, and Codex to clear the mundane work and move faster
 
 ## Selected Work
 
-### [`red-prompt`](https://red-prompt.org/) *(early-stage startup)*
+### [red-prompt](https://red-prompt.org/)
+*Early-stage startup*
 
-An AI red-teaming platform that automates LLM vulnerability assessments across 41 probe categories, with AVID-compliant reports and a severity-ranked dashboard for triage. Supabase handles authentication, user data, and activity history, and the app runs on Azure.
+Automates LLM vulnerability assessments across **41 probe categories** covering prompt injection, jailbreaks, and data leakage. Findings export as AVID-compliant reports and land in a severity-ranked dashboard for triage. Supabase handles auth, user data, and activity history, and the app runs on Azure.
 
 `FastAPI` `Next.js` `Supabase` `Azure`
 
----
+### [RDRS: Ransomware Detection & Response](https://github.com/Naks-bro/RDRS---Ransomware-Detection)
 
-### [`RDRS`](https://github.com/Naks-bro/RDRS---Ransomware-Detection) *(Ransomware Detection & Response Service)*
-
-Real-time ransomware detection for Windows endpoints that fuses seven telemetry sources, including kernel file I/O, crypto-API loads, and shadow-copy deletion attempts. Designed so no single signal can trigger a response: action fires only when corroborating signals stack up within a decay window, backed by entropy analysis and honeytoken tripwires. Validated across six attack simulations.
+Watches Windows endpoints in real time across **7 telemetry sources**, including kernel file I/O, crypto-API loads, and shadow-copy deletion attempts. No single signal can trigger a response; action fires only when corroborating signals stack up within a decay window, backed by entropy analysis and honeytoken tripwires. Validated across **6 attack simulations**.
 
 `Windows` `ETW` `Detection Engineering`
 
----
+### [Aegis: AI Video Forensics](https://github.com/Tweethashtag2244/Aegis-MumHack2025)
+*Mumbai Hacks finalist, team of four*
 
-### [`Aegis`](https://github.com/Tweethashtag2244/Aegis-MumHack2025) *(Mumbai Hacks finalist)*
-
-A multi-agent system, built in a team of four, that scores whether a video is real or AI-generated. Rather than trusting any one detector, it fuses frame-level forensics, Gemini audio/visual coherence, provenance, and robustness signals into a weighted verdict with override rules.
+Scores whether a video is real or AI-generated. Instead of trusting one detector, it fuses frame-level forensics, Gemini audio/visual coherence, provenance, and robustness signals into a weighted verdict with override rules.
 
 `Next.js` `Flask` `TensorFlow` `OpenCV` `Gemini`
 
----
+### Phishing Detection System
+*OffSecDiary, project lead*
 
-### `Phishing Detection System` *(OffSecDiary, project lead)*
-
-A deterministic four-module pipeline (signature, homograph, content similarity, clickjacking) on live threat-intel feeds and a SQLite phishing database, reaching 96% detection on zero-day phishing links. Every threshold change runs against a 127-test regression suite, and a companion Chrome extension scans links as the user browses. I also led a security audit of the platform and grouped the fixes into remediation batches.
+A deterministic four-module pipeline (signature, homograph, content similarity, clickjacking) on live threat-intel feeds and a SQLite phishing database, reaching **96% detection on zero-day phishing links**. Every threshold change runs against a **127-test regression suite**, and a Chrome extension scans links as you browse. I also led the platform's security audit and grouped the fixes into remediation batches.
 
 `SQLite` `Threat-Intel APIs` `Chrome Extension`
-
----
-
-### `Multi-Agent Pentesting Framework` *(in progress)*
-
-LLM agents for reconnaissance, vulnerability analysis, exploitation, and reporting, with human approval gates between stages. The goal is to speed up human pentesters, not replace them.
-
-`Multi-Agent LLMs`
-
-## Experience
-
-**R&D Intern, OffSecDiary** (2026) · **Cybersecurity Intern, ShadowFox** (2025) · **Cloud Computing Intern, YHills Edutech** (2024)
 
 ## Tech Stack
 
@@ -100,4 +84,6 @@ LLM agents for reconnaissance, vulnerability analysis, exploitation, and reporti
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk">
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat" alt="MITRE ATT&CK">
 
-Open to Software Engineering, AI Security, and AI Red Team roles, and to interesting problems in applied AI security along the way.
+---
+
+<p align="center">Open to Software Engineering, AI Security, and AI Red Team roles. If you're working on something in AI security, I'd like to hear about it.</p>
