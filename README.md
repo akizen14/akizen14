@@ -17,8 +17,6 @@ Final-year B.Tech Computer Science & IT (Cybersecurity) at Symbiosis Skills and 
 
 - I enjoy building security products and solutions, from ransomware and phishing detection to AI red-teaming tools.
 - Currently building **[Red-Prompt](https://red-prompt.org/)**, an early-stage startup for testing LLM applications against prompt injection, jailbreaks, and data leakage.
-- Selected as **1 of 52 founders** for the [AI & Weekends Back to School](https://bts.aiweekends.xyz/) fellowship.
-- **Mumbai Hacks finalist** with Aegis, a multi-agent AI video forensics system.
 - I use AI workflows (Claude Code, Gemini CLI, Codex) to streamline mundane tasks and ship faster.
 
 ---
@@ -88,7 +86,7 @@ Final-year B.Tech Computer Science & IT (Cybersecurity) at Symbiosis Skills and 
 ### GitHub stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=akizen14&show_icons=true&hide_border=true" alt="GitHub stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=akizen14&show_icons=true&hide_border=true&hide=stars" alt="GitHub stats" height="160">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akizen14&layout=compact&hide_border=true" alt="Top languages" height="160">
 </p>
 
