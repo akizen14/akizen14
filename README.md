@@ -3,10 +3,6 @@
 <a href="https://www.linkedin.com/in/chaitanya-sawant14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:chaitanyassawant07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://red-prompt.org/"><img src="https://img.shields.io/badge/red--prompt.org-111111?style=for-the-badge" alt="red-prompt"></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
 
 ## About Me
 
@@ -66,14 +62,42 @@ LLM agents for reconnaissance, vulnerability analysis, exploitation, and reporti
 
 **R&D Intern, OffSecDiary** (2026) · **Cybersecurity Intern, ShadowFox** (2025) · **Cloud Computing Intern, YHills Edutech** (2024)
 
-## Stack
+## Tech Stack
 
-**AI & LLMs:** Multi-agent systems · LLM-powered applications · Prompt engineering · PyRIT · Gemini (Genkit) · TensorFlow · OpenCV
+**AI & LLMs**<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/PyRIT-333333?style=flat" alt="PyRIT">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-444444?style=flat" alt="Multi-Agent Systems">
 
-**Languages & Data:** Python · C/C++ · JavaScript · SQL · PostgreSQL (Supabase) · SQLite
+**Languages & Data**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C/C++">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
 
-**Web & Infra:** FastAPI · Flask · Next.js · Firebase · Azure · GCP · Docker · Git · Jenkins · Trivy
+**Web & Infra**<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white" alt="Trivy">
 
-**Security:** Detection engineering · MITRE ATT&CK · Burp Suite · Wireshark · Nmap · Metasploit · Splunk
+**Security**<br>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" alt="Nmap">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat" alt="Metasploit">
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk">
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat" alt="MITRE ATT&CK">
 
 Open to Software Engineering, AI Security, and AI Red Team roles, and to interesting problems in applied AI security along the way.
